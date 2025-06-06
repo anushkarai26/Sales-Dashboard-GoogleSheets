@@ -5,7 +5,9 @@ This project presents a comprehensive sales dashboard for a Polish company over 
 
 ---
 
-![image](https://github.com/user-attachments/assets/666ef204-dc0b-44be-b480-bf188a1358ca)
+![image](https://github.com/user-attachments/assets/41608fb3-d39a-4487-b4d9-667710b4bbe4)
+
+
 
 
 ## A. North Star Metrics & Key Dimensions
