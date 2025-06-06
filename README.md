@@ -5,6 +5,9 @@ This project presents a comprehensive sales dashboard for a Polish company over 
 
 ---
 
+![image](https://github.com/user-attachments/assets/666ef204-dc0b-44be-b480-bf188a1358ca)
+
+
 ## A. North Star Metrics & Key Dimensions
 
 ### 🔹 **North Star Metrics**
@@ -44,9 +47,9 @@ This project presents a comprehensive sales dashboard for a Polish company over 
      Total Profit: €224,078
      These indicate an overall ~11.6% profit margin, which is moderate and leaves room for optimization through pricing or cost control.
 
-5. **Time Trends**
-- The **Sales-Profit timeline** line chart shows steady growth with a **mid-period surge**, possibly aligning with a seasonal or campaign period.
-- **Product-wise profit distribution** suggests a skew toward a few high-margin products. Increasing volume in these could significantly boost profits.
+5. **Time Trends**:
+   - The **Sales-Profit timeline** line chart shows steady growth with a **mid-period surge**, possibly aligning with a seasonal or campaign period.
+   - **Product-wise profit distribution** suggests a skew toward a few high-margin products. Increasing volume in these could significantly boost profits.
 
 
 ## C. Recommendations & Next Steps
